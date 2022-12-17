@@ -150,3 +150,15 @@ th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
+
+
+/*css da página inicial*/
+
+.banner {
+    width: 100%;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+}
